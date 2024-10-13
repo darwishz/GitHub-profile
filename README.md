@@ -1,5 +1,7 @@
 # 👋 Hi, I'm MUHAMMAD DARWISH BIN MOHD ZAILANI!
 
+![Profile Banner](https://github.com/darwishz/darwishz/blob/main/Passport-size%20picture.png)
+
 ### 🚀 About Me
 I’m a passionate **Software Engineering** student, currently in my 3RD year, with a focus on building innovative software solutions. My interests lie in **software development**, **maintainable code**, and **solving complex problems** through programming. I enjoy learning about the **software development lifecycle**, particularly how to keep systems running efficiently after they have been deployed.
 
