@@ -29,4 +29,4 @@ In the WIF3005 course, we explore how to maintain and evolve software systems ov
 I’m excited to contribute to open-source projects and collaborate with other developers. Feel free to connect or reach out!
 
 ### 🔗 GitHub Profile
-[Visit My GitHub Profile](https://github.com/darwishz)
+[Visit My GitHub Profile](https://github.com/darwishz/darwishz)
